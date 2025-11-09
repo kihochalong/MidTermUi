@@ -4,7 +4,7 @@
 
 ## 內容
 
-- **Qt_UI_Design_Studio_Use_Case.md** - 詳細的使用案例（661 字），描述使用 Qt Design Studio 開發智慧家居控制儀表板，涵蓋從設計原型到最終實作的完整工作流程。
+- **Qt_UI_Design_Studio_Use_Case.md** - 詳細的使用案例（1127 字），描述使用 Qt Design Studio 開發智慧家居控制儀表板，涵蓋從設計原型到最終實作的完整工作流程。
 
 ## 使用案例概述
 
